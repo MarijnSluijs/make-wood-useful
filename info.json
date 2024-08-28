@@ -1,0 +1,9 @@
+{
+    "name": "make-wood-useful",
+    "version": "0.0.1",
+    "title": "Make Wood useful",
+    "author": "Marijn Sluijs",
+    "factorio_version": "1.1.0",
+    "dependencies": ["base"],
+    "description": "Adds recipes to make wood useful. Wood can be converted to coal in a furnace, and to landfill in a chemical plant."
+  }
